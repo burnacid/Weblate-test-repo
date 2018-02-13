@@ -1,2 +1,2 @@
-$l['string']='String';
-$l['something_else']='Something else';
+$l['string']='Regel';
+$l['something_else']='Iets anders';
