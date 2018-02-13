@@ -2,4 +2,4 @@
 
 $l['string']='Regel';
 $l['something_else']='Iets anders';
-$l['new'] = "";
+$l['new'] = "Nieuw";
