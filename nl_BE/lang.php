@@ -1,3 +1,3 @@
 $l['string']='String';
-$l['something_else']='Something else';
-$l['new']='New';
+$l['something_else']='Anders';
+$l['new']='Nieuw';
